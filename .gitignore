@@ -1,0 +1,6 @@
+reactapp/node_modules
+reactapp/README.md
+
+truffle/node_modules
+truffle/build
+truffle/.env
